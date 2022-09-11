@@ -1,3 +1,4 @@
 *
 !.gitignore
-!tarea2/lib
+./tarea2/**
+!./tarea2/lib/
